@@ -8,6 +8,7 @@ function App() {
         <p>Resize this responsive page to see the effect!</p>
       </div>
 
+
       <div class="container">
         <div class="row">
           <div class="col-sm-4">
@@ -24,6 +25,19 @@ function App() {
           </div>
         </div>
       </div>
+
+
+      <div class="container">
+        <h1>My First Bootstrap Page</h1>
+        <p>This is some text.</p>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-4">.col-sm-4</div>
+        <div class="col-sm-4">.col-sm-4</div>
+        <div class="col-sm-4">.col-sm-4</div>
+      </div>
+
     </>
   );
 }
