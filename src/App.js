@@ -4,18 +4,18 @@ function App() {
   return (
     <>
     <div className = "row">
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
-      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-4</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
+      <div className = "col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
     </div>
     <div className = "row">
       <div className = "col-sm-2 border border-primary rounded h6 text-center">.col-sm-2</div>
