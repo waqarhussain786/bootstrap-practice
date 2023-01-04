@@ -3,12 +3,11 @@ import './App.css';
 function App() {
   return (
     <>
+
       <div class="jumbotron text-center">
         <h1>My First Bootstrap Page</h1>
         <p>Resize this responsive page to see the effect!</p>
       </div>
-
-
       <div class="container">
         <div class="row">
           <div class="col-sm-4">
