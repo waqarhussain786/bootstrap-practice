@@ -3,41 +3,11 @@ import './App.css';
 function App() {
   return (
     <>
-
-      <div class="jumbotron text-center">
-        <h1>My First Bootstrap Page</h1>
-        <p>Resize this responsive page to see the effect!</p>
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-4">
-            <h3>Column 1</h3>
-            <p>Lorem </p>
-          </div>
-          <div class="col-sm-4">
-            <h3>Column 2</h3>
-            <p>Lorem ipsum dolor..</p>
-          </div>
-          <div class="col-sm-4">
-            <h3>Column 3</h3>
-            <p>Lorem ipsum dolor..</p>
-
-          </div>
-        </div>
-      </div>
-
-
-      <div class="container">
-        <h1>My First Bootstrap Page</h1>
-        <p>This is some text.</p>
-      </div>
-
-      <div class="row">
-        <div class="col-sm-4">.col-sm-4</div>
-        <div class="col-sm-4">.col-sm-4</div>
-        <div class="col-sm-4">.col-sm-4</div>
-      </div>
-
+    <div className = "row">
+      <div className = "col-sm-1 border">.col-sm-4</div>
+      <div className = "col-sm-3 border">.col-sm-4</div>
+      <div className = "col-sm-8 border">.col-sm-8</div>
+    </div>
     </>
   );
 }
