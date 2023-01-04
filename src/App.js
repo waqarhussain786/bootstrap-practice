@@ -38,8 +38,7 @@ function App() {
     </div>
     <div className = "row">
       <div className = "col-sm-5 border border-primary rounded h6 text-center">.col-sm-5</div>
-      <div className = "col-sm-5 border border-primary rounded h6 text-center">.col-sm-5</div>
-      <div className = "col-sm-2 border border-primary rounded h6 text-center">.col-sm-2</div>
+      <div className = "col-sm-7 border border-primary rounded h6 text-center">.col-sm-7</div>
     </div>
     <div className = "row">
       <div className = "col-sm-6 border border-primary rounded h6 text-center">.col-sm-6</div>
@@ -47,7 +46,7 @@ function App() {
     </div>
     <div className = "row">
       <div className = "col-sm-7 border border-primary rounded h6 text-center">.col-sm-7</div>
-      <div className = "col-sm-5 border border-primary rounded h6 text-center">.col-sm-6</div>
+      <div className = "col-sm-5 border border-primary rounded h6 text-center">.col-sm-5</div>
     </div>
     <div className = "row">
       <div className = "col-sm-8 border border-primary rounded h6 text-center">.col-sm-8</div>
