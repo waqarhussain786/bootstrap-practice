@@ -1,11 +1,17 @@
 import React from 'react'
 import { useState } from 'react';
 import { Button, Stack, Badge, Alert } from 'react-bootstrap';
+import "./first-bootstrap.css";
 // import Button from 'react-bootstrap/Button';
 const FirtBootstrap = () => {
-    const [show, setShow] = useState(true);     
+    const [show, setShow] = useState(true);
     return (
         <div>
+            <div>
+                <Button variant="flat" size="xxl">
+                    flat button
+                </Button>
+            </div>
             <div>
                 <Stack direction="horizontal" gap={2}>
                     <Button as="a" variant="primary">
