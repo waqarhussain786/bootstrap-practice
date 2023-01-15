@@ -1,8 +1,12 @@
 import React from 'react'
-
+// import { Button } from 'react-bootstrap';
+import Button from 'react-bootstrap/Button';
 const FirtBootstrap = () => {
     return (
         <div>
+            <div>
+                <Button>hello</Button>
+            </div>
             <div class="jumbotron text-center">
                 <h1>My First Bootstrap Page</h1>
                 <p>Resize this responsive page to see the effect!</p>
