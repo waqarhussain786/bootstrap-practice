@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react';
 import { Button, Stack, Badge, Alert } from 'react-bootstrap';
-import "./first-bootstrap.css";
+// import "./first-bootstrap.css";
 // import Button from 'react-bootstrap/Button';
 const FirtBootstrap = () => {
     const [show, setShow] = useState(true);
