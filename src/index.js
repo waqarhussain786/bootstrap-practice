@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import App from './App';
+import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import FirtBootstrap from './first-bootstrap.jsx';
 import NavbarBootstrap from './navbar-bootstrap.jsx';
@@ -13,6 +13,6 @@ root.render(
     <CollapsibleExample/>
     <NavbarBootstrap />
     <FirtBootstrap />
-    {/* <App /> */}
+    <App />
   </React.StrictMode>
 );
