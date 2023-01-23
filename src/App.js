@@ -39,14 +39,10 @@ function App() {
           <div className="col-sm-4 border border-primary rounded h6 text-center">.col-sm-4</div>
         </div>
         <div className='row2-items'>
-          <div className="col-sm-5 border border-primary rounded h6 text-center">.col-sm-5</div>
-          <div className="col-sm-7 border border-primary rounded h6 text-center">.col-sm-7</div>
-        </div>
-        <div className='row2-items'>
           <div className="col-sm-6 border border-primary rounded h6 text-center">.col-sm-6</div>
           <div className="col-sm-6 border border-primary rounded h6 text-center">.col-sm-6</div>
         </div>
-        <div className='row2-items'>
+        {/* <div className='row2-items'>
           <div className="col-sm-7 border border-primary rounded h6 text-center">.col-sm-7</div>
           <div className="col-sm-5 border border-primary rounded h6 text-center">.col-sm-5</div>
         </div>
@@ -65,7 +61,7 @@ function App() {
         <div className='row2-items'>
           <div className="col-sm-11 border border-primary rounded h6 text-center">.col-sm-11</div>
           <div className="col-sm-1 border border-primary rounded h6 text-center">.col-sm-1</div>
-        </div>
+        </div> */}
         <div className='row2-items'>
           <div className="col-sm-12 border border-primary rounded h6 text-center">.col-sm-12</div>
         </div>

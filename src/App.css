@@ -1,6 +1,7 @@
 .row2-items{
   display: flex;
   justify-content: center;
+  justify-content: space-around;
   margin: 14px;
 }
 @media only screen and (max-width: 400px){
