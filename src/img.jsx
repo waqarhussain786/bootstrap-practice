@@ -9,12 +9,14 @@ const Img = () => {
       let cars =[
         'a','b','c','d','e'
       ];
-      let name = 'waqarhussain';
+      let name = 'waqar hussain';
       let name1 = 'salman';
       let name2 = 'ali';
       let name3 = 'ahmed';
 
       const cast = 'ujjan';
+
+      
 
       let firstNumber = 4;
       let secondNumber = 4;
@@ -27,7 +29,7 @@ const Img = () => {
     <div>
         <h3>({firstNumber+a})</h3>
 
-        <h2>{name+cast} {firstNumber}</h2>
+        <h2>{name} {cast} {firstNumber}</h2>
         <h2>{name1} {cast} {secondNumber}</h2>
         <h2>{name2} {cast} {thirdNumber}</h2>
         <h2>{name3} {cast} {forthNumber}</h2>

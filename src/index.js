@@ -6,13 +6,15 @@ import FirtBootstrap from './first-bootstrap.jsx';
 // import NavbarBootstrap from './navbar-bootstrap.jsx';
 import CollapsibleExample from './dark-navbar';
 import Img from './img';
-import IfElse from './if-else';
+// import IfElse from './if-else';
+import Function from './function';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <IfElse />
     <CollapsibleExample/>
+    {/* <IfElse /> */}
+    <Function />
     {/* <NavbarBootstrap /> */}
     <Img />
     <FirtBootstrap />
