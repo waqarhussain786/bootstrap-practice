@@ -10,17 +10,27 @@ const Img = () => {
         'a','b','c','d','e'
       ];
       let name = 'waqarhussain';
+      let name1 = 'salman';
+      let name2 = 'ali';
+      let name3 = 'ahmed';
 
       const cast = 'ujjan';
 
-      let firstNumber = 3;
-      let secondNumber = 3;
+      let firstNumber = 4;
+      let secondNumber = 4;
+      let thirdNumber = 4;
+      let forthNumber = 4;
+      let a = 'names';
+
 
   return (
     <div>
-        <h3>({firstNumber+secondNumber})</h3>
+        <h3>({firstNumber+a})</h3>
 
-        <h2>{name} {cast}</h2>
+        <h2>{name+cast} {firstNumber}</h2>
+        <h2>{name1} {cast} {secondNumber}</h2>
+        <h2>{name2} {cast} {thirdNumber}</h2>
+        <h2>{name3} {cast} {forthNumber}</h2>
         <h1>{cars[0]}</h1>
         <h1>{cars[3]}</h1>
         <h1>{cars[4]}</h1>
